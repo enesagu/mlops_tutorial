@@ -1,5 +1,7 @@
 [core]
-    remote = mygoogledrive
+    remote = myremote
 ['remote "mygoogledrive"']
     url = gdrive://1uHhjYsiYwFcmYORu69ot8x6vqElGQs0n
     profile = myprofile
+['remote "myremote"']
+    url = https://github.com/enesagu/mlops_tutorial/tree/main/data
