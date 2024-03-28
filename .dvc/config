@@ -1,7 +1,9 @@
 [core]
-    remote = myremote
+    remote = /home/tractus/desktop/example/python/python1/deep
 ['remote "mygoogledrive"']
     url = gdrive://1uHhjYsiYwFcmYORu69ot8x6vqElGQs0n
     profile = myprofile
 ['remote "myremote"']
     url = https://github.com/enesagu/mlops_tutorial/tree/main/data
+['remote "/home/tractus/desktop/example/python/python1/deep"']
+    url = ../Learning/data
